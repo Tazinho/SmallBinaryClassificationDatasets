@@ -1,7 +1,7 @@
-Package: small-binary-classification-datasets
+Package: SmallBinaryClassificationDatasets
 Version: 0.0.1
 Date: 2014-08-27
-Title: small-binary-classification-datasets
+Title: SmallBinaryClassificationDatasets
 Description: Some datasets, which can be used to explain binary classification.
 Author: Malte Grosser <malte.grosser@gmail.com>
 Maintainer: Malte Grosser <malte.grosser@gmail.com>
